@@ -16,7 +16,7 @@
 ```
 $ ./ipwndfu -p
 *** based on limera1n exploit (heap overflow) by geohot ***
-Found: CPID:8920 CPRV:15 CPFM:03 SCEP:03 BDID:00 ECID:XXXXXXXXXXXXXXXX SRTG:[iBoot-359.3.2]
+Found: CPID:8920 CPRV:15 CPFM:03 SCEP:03 BDID:00 ECID:[REDACTED-IDENTITY] SRTG:[iBoot-359.3.2]
 Device is now in pwned DFU Mode.
 ```
 
